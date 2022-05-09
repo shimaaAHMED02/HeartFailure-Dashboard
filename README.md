@@ -2,8 +2,8 @@
 
 ## Description
 ### this project has two parts :
-*apply insights about data* 
-*apply ml model to predict poitive or negative disease*
+1. *apply insights about data* 
+2. *apply ml model to predict poitive or negative disease*
 -Just add a dash first and then write a text.
 
 -If you add another dash in the following line, you will have another item in the list.
