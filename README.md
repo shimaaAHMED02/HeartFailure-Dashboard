@@ -1,6 +1,6 @@
 # Heart Failure Prediction
 
-##in this project we have two parts:
+## Description
 
 
 ![alt text](https://github.com/shimaaAHMED02/HeartFailure-Dashboard/blob/master/assets/dashh.jpeg?raw=true)
