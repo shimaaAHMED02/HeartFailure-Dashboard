@@ -1,4 +1,4 @@
-# Heart Failure Prediction
+# Heart Failure Dashboard
 
 ## Description
 ### this project has two parts :
@@ -6,10 +6,12 @@
 2. *apply ml model to predict poitive or negative disease*
 
 ### the First part 
+- we made an analytical analysis for the data and got some figures representing the relationship of the heart_disease with various features (age , sex , chest pain)
+- we used Dash to make an interactive dashboard to visualize our results (as in the images)
+- the dashboard is interactive i.e: you can change the parameters to visualize only a part of the data 
 
   
- 
-![alt text](https://github.com/shimaaAHMED02/HeartFailure-Dashboard/blob/master/assets/dashh.jpeg?raw=true)
+ ![127 0 0 1_8060_](https://user-images.githubusercontent.com/47314651/168611023-6e75ee1f-52d5-40d6-a0af-c535dcd8f012.png)
 
 ### the Second part
 > * make data pre-processing
@@ -20,7 +22,7 @@
 > * load the model 
 > * make prediction for the input data row from user
  
-![alt text](https://github.com/shimaaAHMED02/HeartFailure-Dashboard/blob/master/assets/model.jpeg?raw=true)
+ ![127 0 0 1_8060_ (1)](https://user-images.githubusercontent.com/47314651/168611067-514781e4-b540-40f3-a9de-e453a243df61.png)
 <!-- ![Screenshot](screenshot.png) -->
 
 ## How to Use The project
