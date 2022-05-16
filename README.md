@@ -28,8 +28,8 @@
 ## How to Use The project
 *after downloading the project in your machine* 
 >* there are two taps :
-1. mmmmm
-2. model tap 
+1. dash board tab
+2. model tab
   >you can enter the features to make data row then press *PREDICT* Button to see the resulted prediction 
 
 
